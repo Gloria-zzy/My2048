@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.administrator.my2048.MainActivity">
+
+    <item
+        android:title="@string/action_settings"
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        tools:ignore="AppCompatResource" />
+</menu>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">My2048</string>
+    <string name="score" translatable="false">Score</string>
+    <string name="action_settings">Settings</string>
+    <string name="bestScore" translatable="false">BestScore</string>
+    <string name="newGame" translatable="false">restart</string>
+    <string name="appinfo" translatable="false">xiao zhu zi de2048</string>
+    <string name="undo" translatable="false">Undo</string>
+    <string name="step" translatable="false">step</string>
+</resources>
